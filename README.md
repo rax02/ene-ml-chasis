@@ -6,3 +6,6 @@ python == 3.9.13
     - Factory Method
 2. Behavioral pattern:
     - Strategy
+    - Template
+
+**MLOps**
